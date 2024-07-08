@@ -1,1 +1,1 @@
-# C-C-exercises
+# CandCPP-exercises
