@@ -1,1 +1,1 @@
-# CandCPP-exercises
+# C/C++ exercises
